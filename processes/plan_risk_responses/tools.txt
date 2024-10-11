@@ -1,0 +1,155 @@
+There are four categories of tools and techniques, as follows:
+• Creativity tools to identify potential responses,
+• Decision-support tools for determining the optimal potential response.
+• Strategy implementation techniques designed to turn a strategy into action, and
+• Tools to transfer control to the Monitor and Control Risks process.
+These categories of tools can be used respectively to identify potential responses, select the most
+appropriate response, translate strategy into planning, and assign the corresponding actions. The steps involved in planning risk responses.
+
+
+Risk response planning builds on the available information about the potential risks and aims to determine
+the optimal set of responses. For this reason, it should involve subject matter experts and employ creativity
+techniques in order to explore all of the options. Project planning and execution techniques are then required
+to evaluate the potential effects of the various options on the project’s objectives.
+
+
+Once the set of potential responses for the risks being addressed is established, decision-support techniques
+may need to be applied to select the best possible subset from these responses. The selection process should
+take into account the cost of the responses, the impact on the project objectives, uncertainty of outcomes and
+the possible secondary and residual risks. The Identify Risks, Perform Quantitative Risk Analysis, and Plan Risk
+Responses processes may then need to be applied to the resultant project management plan and the residual
+and secondary risks that it would entail. This iterative approach continues until all of the individual risks are
+deemed acceptable and the overall risk is within a predefined threshold.
+
+
+Project planning tools are used to turn the chosen strategies into concrete actions and to integrate these into
+existing plans. The corresponding actions may be unconditional (integrated into the project management
+plan) or contingent on a trigger condition and predefined as a contingency response strategy.
+
+
+The project manager needs to use resource assignment processes to ensure the availability of an owner for
+each risk and for each response action, so that each associated risk is managed and each corresponding risk
+response is carried out in a timely and effective manner.
+To enable risk monitoring to identify the imminence or actual occurrence of the corresponding event, every contingency response strategy should include a set of trigger conditions. The responsibility for monitoring
+these conditions should be clearly assigned in the Plan Risk Responses process and managed in the Monitor
+and Control Risks process.
+The strategic definition of risk responses should include measurable criteria for success of the response.
+Risk action owners should monitor their assigned risks, take agreed-upon actions as required, and provide
+the risk owners with relevant information on status or changes to the risk characteristics. Risk owners should
+assess the effectiveness of any actions, decide whether additional actions are required, and keep the project
+manager informed of the situation.
+Several risk response strategies are available. The strategy or mix of strategies most likely to be effective should be selected for each risk. Risk analysis tools, such as decision tree analysis, can be used to choose the most appropriate responses. Specific actions are developed to implement that strategy,
+including primary and backup strategies, as necessary. A fallback plan can be developed for implementation
+if the selected strategy turns out not to be fully effective or if an accepted risk occurs. Secondary risks should
+also be reviewed. Secondary risks are risks that arise as a direct result of implementing a risk response. A contingency reserve is often allocated for time or cost. If developed, it may include identification of the conditions
+that trigger its use.
+
+
+Three strategies, which typically deal with threats or risks that may have negative impacts on project objectives
+if they occur, are: avoid, transfer, and mitigate. The fourth strategy, accept, can be used for negative risks or threats
+as well as positive risks or opportunities. Each of these risk response strategies have varied and unique influence
+on the risk condition. These strategies should be chosen to match the risk’s probability and impact on the project’s
+overall objectives. Avoidance and mitigation strategies are usually good strategies for critical risks with high impact,
+while transference and acceptance are usually good strategies for threats that are less critical and with low overall
+impact. The four strategies for dealing with negative risks or threats are further described as follows:
+Risk avoidance is a risk response strategy whereby the project team acts to eliminate the threat or
+protect the project from its impact. It usually involves changing the project management plan to eliminate
+the threat entirely. The project manager may also isolate the project objectives from the risk’s impact or
+change the objective that is in jeopardy. Examples of this include extending the schedule, changing the
+strategy, or reducing scope. The most radical avoidance strategy is to shut down the project entirely.
+Some risks that arise early in the project can be avoided by clarifying requirements, obtaining information,
+improving communication, or acquiring expertise.
+ Risk transference is a risk response strategy whereby the project team shifts the impact of
+a threat to a third party, together with ownership of the response. Transferring the risk simply gives another party responsibility for its management—it does not eliminate it. Transferring does not mean
+disowning the risk by transferring it to a later project or another person without his or her knowledge or
+agreement. Risk transference nearly always involves payment of a risk premium to the party taking on
+the risk. Transferring liability for risk is most effective in dealing with financial risk exposure. Transference
+tools can be quite diverse and include, but are not limited to, the use of insurance, performance bonds,
+warranties, guarantees, etc. Contracts or agreements may be used to transfer liability for specified risks
+to another party. For example, when a buyer has capabilities that the seller does not possess, it may be
+prudent to transfer some work and its concurrent risk contractually back to the buyer. In many cases, use of a cost-plus contract may transfer the cost risk to the buyer, while a fixed-price contract may transfer risk to the seller.
+Risk mitigation is a risk response strategy whereby the project team acts to reduce the
+probability of occurrence or impact of a risk. It implies a reduction in the probability and/or impact of an
+adverse risk to be within acceptable threshold limits. Taking early action to reduce the probability and/or
+impact of a risk occurring on the project is often more effective than trying to repair the damage after the
+risk has occurred. Adopting less complex processes, conducting more tests, or choosing a more stable supplier are examples of mitigation actions. Mitigation may require prototype development to reduce the
+risk of scaling up from a bench-scale model of a process or product. Where it is not possible to reduce
+probability, a mitigation response might address the risk impact by targeting linkages that determine the
+severity. For example, designing redundancy into a system may reduce the impact from a failure of the
+original component.
+Risk acceptance is a risk response strategy whereby the project team decides to acknowledge
+the risk and not take any action unless the risk occurs. This strategy is adopted where it is not possible
+or cost-effective to address a specific risk in any other way. This strategy indicates that the project
+team has decided not to change the project management plan to deal with a risk, or is unable to identify
+any other suitable response strategy. This strategy can be either passive or active. Passive acceptance
+requires no action except to document the strategy, leaving the project team to deal with the risks as
+they occur, and to periodically review the threat to ensure that it does not change significantly. The
+most common active acceptance strategy is to establish a contingency reserve, including amounts of
+time, money, or resources to handle the risks.
+
+
+Three of the four responses are suggested to deal with risks with potentially positive impacts on project objectives.
+The fourth strategy, accept, can be used for negative risks or threats as well as positive risks or opportunities. These
+strategies, described below, are to exploit, share, enhance, and accept.
+The exploit strategy may be selected for risks with positive impacts where the organization wishes
+to ensure that the opportunity is realized. This strategy seeks to eliminate the uncertainty associated with
+a particular upside risk by ensuring the opportunity definitely happens. Examples of directly exploiting
+responses include assigning an organization’s most talented resources to the project to reduce the time
+to completion or using new technologies or technology upgrades to reduce cost and duration required to
+realize project objectives.
+The enhance strategy is used to increase the probability and/or the positive impacts of an
+opportunity. Identifying and maximizing key drivers of these positive-impact risks may increase the
+probability of their occurrence. Examples of enhancing opportunities include adding more resources to
+an activity to finish early.
+Sharing a positive risk involves allocating some or all of the ownership of the opportunity to a
+third party who is best able to capture the opportunity for the benefit of the project. Examples of sharing
+actions include forming risk-sharing partnerships, teams, special-purpose companies, or joint ventures,
+which can be established with the express purpose of taking advantage of the opportunity so that all
+parties gain from their actions.
+Accepting an opportunity is being willing to take advantage of the opportunity if it arises, but
+not actively pursuing it.
+
+
+Some responses are designed for use only if certain events occur. For some risks, it is appropriate for
+the project team to make a response plan that will only be executed under certain predefined conditions, if
+it is believed that there will be sufficient warning to implement the plan. Events that trigger the contingency
+response, such as missing intermediate milestones or gaining higher priority with a supplier, should be defined
+and tracked. Risk responses identified using this technique are often called contingency plans or fallback plans
+and include identified triggering events that set the plans in effect.
+
+
+Expert judgment is input from knowledgeable parties pertaining to the actions to be taken on a specific and
+defined risk. Expertise may be provided by any group or person with specialized education, knowledge, skill,
+experience, or training in establishing risk responses.
+
+
+The objective of the Plan Risk Responses process is to determine the set of actions which most enhance the
+chances of project success while complying with applicable organizational and project constraints.
+Once risks have been identified, analyzed, and prioritized, plans should be developed for addressing every
+risk the project team considers to be sufficiently important, either because of the threat it poses to the project
+objectives or the opportunity it offers. The planning entails agreeing upon the actions to be taken and the
+potential changes to budget, schedule, resources, and scope which these actions might cause.
+Contingent risk response actions need to be executed at the optimum time. For this reason, the response
+specification for each such risk should include a description of any corresponding trigger conditions.
+The responsibility for monitoring the project conditions and implementing the corresponding actions should
+be clearly assigned. Every risk should have been allocated to a risk owner as part of the Identify Risks process,
+and each of the corresponding risk responses should now be assigned to a specific risk action owner. The risk
+owner is responsible for ensuring that the risk response is effective and for planning additional risk responses
+if required, whereas the risk action owner is responsible for ensuring that the agreed-upon risk responses are
+carried out as planned, in a timely manner. The role of the risk owner and that of the risk action owner may be
+assigned to a single person.
+Responses, when implemented, can have potential effects on the project objectives and, as such, can
+generate additional risks. These are known as secondary risks and have to be analyzed and planned for in the
+same way as those risks which were initially identified.
+It is never feasible or even desirable to eliminate all threats from a project. Similarly, there is also a limit
+to the extent to which opportunities can be proactively managed. There may be residual risks that will remain
+after the responses have been implemented. These residual risks should be clearly identified, analyzed,
+documented, and communicated to all relevant stakeholders.
+All the approved, unconditional actions arising from risk response planning should be integrated into the
+project management plan in order to ensure that they are carried out as part of normal project implementation. The
+corresponding organizational and project management rules should also be invoked, including the following:
+• Project change management and configuration control;
+• Project planning, budgeting, and scheduling;
+• Resource management; and
+• Project communication planning.
+

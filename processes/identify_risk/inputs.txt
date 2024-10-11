@@ -1,0 +1,74 @@
+Key elements of the risk management plan that contribute to the Identify Risks process are the assignments of roles and responsibilities, provision for risk management activities in the budget
+and schedule, and categories of risk, which are sometimes expressed as a risk breakdown structure.
+
+The cost management plan provides processes and controls that can be used to help identify risks across the project.
+
+
+The schedule management plan provides insight to project time/schedule
+objectives and expectations which may be impacted by risks (known and unknown).
+
+
+ The quality management plan provides a baseline of quality measures and metrics
+for use in identifying risks.
+
+ The human resource management plan provides guidance on how project human
+resources should be defined, staffed, managed, and eventually released. It can also contain roles and responsibilities,
+project organization charts, and the staffing management plan, which form a key input to identify risk processes.
+
+
+
+
+
+
+Project assumptions are found in the project scope statement. Uncertainty in
+project assumptions should be evaluated as potential causes of project risk.
+The WBS is a critical input to identifying risks as it facilitates an understanding of the potential risks at both
+the micro and macro levels. Risks can be identified and subsequently tracked at summary, control account, and/or
+work package levels.
+
+Activity cost estimate reviews are useful in identifying risks as they provide a quantitative assessment of the likely cost to complete scheduled activities and ideally are expressed as a range,
+with the width of the range indicating the degree(s) of risk. The review may result in projections indicating the
+estimate is either sufficient or insufficient to complete the activity (pose a risk to the project).
+
+Activity duration estimate reviews are useful in identifying risks related to the time
+allowances for the activities or project as a whole, again with the width of the range of such estimates indicating
+the relative degree(s) of risk.
+
+Information about the stakeholders is useful for soliciting inputs to identify risks,
+as this will ensure that key stakeholders, especially the stakeholder, sponsor, and customer are interviewed or
+otherwise participate during the Identify Risks process.
+
+
+
+Project documents provide the project team with information about decisions that help better identify project
+risks. Project documents improve cross-team and stakeholder communications and include, but are not limited to:
+•         Project charter,
+•         Project schedule,
+•         Schedule network diagrams,
+•         Issue log,
+•         Quality checklist, and
+•         Other information proven to be valuable in identifying risks.
+
+If the project requires external procurement of resources, procurement
+documents become a key input to the Identify Risks process. The complexity and the level of detail of the
+procurement documents should be consistent with the value of, and risks associated with, planned procurement.
+
+
+
+
+Enterprise environmental factors that can influence the Identify Risks process
+include, but are not limited to:
+•         Published information, including commercial databases,
+•         Academic studies,
+•         Published checklists,
+•         Benchmarking,
+•         Industry studies, and
+•         Risk attitudes.
+
+
+Organizational process assets that can influence the Identify Risks process include,
+but are not limited to:
+•         Project files, including actual data,
+•         Organizational and project process controls,
+•         Risk statement formats or templates, and
+•         Lessons learned.

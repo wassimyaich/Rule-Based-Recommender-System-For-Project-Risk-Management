@@ -1,0 +1,84 @@
+Identifies as many knowable risks as practicable. (pmi)
+
+ A risk cannot be managed unless it is first identified. Consequently, after risk management planning has
+been completed, the first process in the iterative Project Risk Management process aims to identify all the
+knowable risks to project objectives.
+ It is, however, impossible to identify all the risks at the outset of a project. Over time, the level of project risk exposure changes as a result of the decisions and actions taken previously in the project (internal change)
+and of externally imposed change.
+ The purpose of risk identification is to identify risks to the maximum extent that is practicable. The fact that some risks are unknowable or emergent requires the Identify Risk process to be iterative, repeating the Identify
+Risks process to find new risks which have become knowable since the previous iteration of the process.
+ When a risk is first identified, potential responses may also be identified at the same time. These should be
+recorded during the Identify Risks process and considered for immediate action if such action is appropriate.
+Where such responses are not implemented immediately, these should be considered during the Plan Risk
+Responses process.
+
+ The practices will maximize the value and effectiveness of the
+Identify Risks process and enhance the likelihood of identifying as many risks as practicable.
+ 
+ Risk identification should be performed as early as possible in the project lifecycle, recognizing the paradox
+that uncertainty is high in the initial stages of a project so there is often less information on which to base the
+risk identification. Early risk identification enables key project decisions to take maximum account of risks
+inherent in the project, and may result in changes to the project strategy. It also maximizes the time available
+for development and implementation of risk responses, which enhances efficiency since responses taken early
+are often normally less costly than later ones. (pmi)
+ 
+ Since not all risks can be identified at any given point in the project, it is essential that risk identification is
+repeated throughout the project life cycle. This should be done periodically, at a frequency determined during
+the Plan Risk Management process. Risk identification might also be repeated at key milestones in the project,
+or whenever there is significant change to the project or its operating environment.
+
+
+ In addition to invoking the Identify Risks process as defined in the project plan, the Project Risk Management
+process should permit risks to be identified at any time, not limited to formal risk identification events or
+regular reviews.
+
+
+ A broad range of sources of risk should be considered to ensure that as many uncertainties as possible that
+might affect objectives have been identified.
+
+
+ The Identify Risks process should ensure opportunities are properly considered.
+
+
+ The Identify Risks process should take input from a broad range of project stakeholders to ensure that
+all perspectives are represented and considered. Limiting risk identification to the immediate project team is
+unlikely to expose all knowable risks.
+
+
+ Each identified project risk should relate to at least one project objective (time, cost, quality, scope, etc.),
+
+
+Guide defines risk as an uncertain event or condition that, if it occurs, has a positive
+or a negative effect on a project’s objectives. Consideration of each project objective during the Identify Risks
+process will assist in identifying risks, noting that some risks may affect more than one objective.
+ 
+ identified risks should be clearly and unambiguously described, so that they can be understood by those
+responsible for risk assessment and risk response planning. Single words or phrases such as “resources”
+or “logistics” are inadequate and do not properly communicate the nature of the risk. More detailed risk
+descriptions are required which explicitly state the uncertainty and its causes and effects. 
+
+
+
+
+ Risks can be identified at a number of levels of detail. A generalized or high-level description of risk can
+make it difficult to develop responses and assign ownership, while describing risks in a lot of detail can create a great deal of work. Each risk should be described at a level of detail at which it can be assigned to a single
+risk owner with clear responsibility and accountability for its management. Trigger conditions should also be
+identified where this is possible and appropriate.
+
+
+ All human activities are susceptible to bias, especially when dealing with uncertainty. Both motivational
+biases, where someone is trying to bias the result in one direction or another, or cognitive biases, where
+biases occur as people are using their best judgment and applying heuristics, may occur. This should be
+explicitly recognized and addressed during the Identify Risks process. Sources of bias should be exposed
+wherever possible, and their effect on the risk process should be managed proactively. The aim is to minimize
+subjectivity, and allow open and honest identification of as many risks as possible to the project. 
+
+
+
+The results from the Identify Risks process should be recorded in order to capture all relevant information
+currently available for each identified risk. The main output from the Identify Risks process is the risk register.
+This includes a properly structured risk description and the nominated risk owner for each risk, and may also
+include information on the causes and effects of the risk, trigger conditions, and preliminary responses.
+
+
+

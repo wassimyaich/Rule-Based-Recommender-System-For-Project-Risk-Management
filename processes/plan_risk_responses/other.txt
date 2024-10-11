@@ -1,0 +1,30 @@
+Plan Risk Responses is the process of developing options and actions to enhance opportunities and to reduce
+threats to project objectives. The key benefit of this process is that it addresses the risks by their priority, inserting
+resources and activities into the budget, schedule and project management plan as needed.
+
+
+The Plan Risk Responses process determines effective response actions that are appropriate to the priority
+of the individual risks and to the overall project risk. It takes into account the stakeholders’ risk attitudes and
+the conventions specified in the Risk Management Plan, in addition to any constraints and assumptions that
+were determined when the risks were identified and analyzed.
+
+Risk response planning is based on the information placed in the risk register during execution of the
+Identify Risks and Perform Analysis processes. The corresponding risk response information is often referred
+to as the risk response plan, although it may in fact be an integral part of the risk register.
+
+
+The response-related information for each risk is recorded in the risk register and updated regularly. Any
+interested stakeholder should be able to rapidly access all the information required to verify their responsibilities
+and manage the risk in accordance with the risk response plan. The set of residual risks and their priorities
+are clearly identified and recorded.
+While developing the detailed set of risk responses, the project-related implications are evaluated for
+inclusion in a modified project management plan. These include costs, resource assignments, scheduling
+details, and changes to project documentation. Until these changes are formally approved along with the
+additional risks that they may carry, risk response planning cannot be considered complete.
+
+
+Once the risk responses have been defined and integrated into the project management plan, the individual
+and overall residual risks related to this plan are evaluated in order to determine whether additional response
+planning is required. This evaluation should provide an estimate of both the expected
+post-response situation and the potential improvement of the risk exposure assuming that the proposed
+responses are effective. The evaluation should be documented.

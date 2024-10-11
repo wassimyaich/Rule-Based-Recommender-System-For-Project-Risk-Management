@@ -1,0 +1,130 @@
+Plan Risk Management: Defines the scope and objectives of the Project Risk
+Management process, and ensures that the risk process is fully integrated into wider project
+management. 
+
+
+
+other
+ The objectives of the Plan Risk Management process are to develop the overall risk management strategy
+for the project, to decide how the risk management processes will be executed, and to integrate Project Risk
+Management with all other project management activities.
+ Effective risk management requires creation of a risk management plan. This plan describes how the
+risk management processes should be carried out and how they fit in with the other project management
+processes. On a broader level, it describes the relationships among Project Risk Management, general project
+management, and the management processes in the rest of the organization. To provide the greatest benefit,
+initial risk management planning should be carried out early in the overall planning of the project, and the
+corresponding risk management activities integrated into the overall project management plan. The risk
+management plan may subsequently need to be adapted as the needs of the project and its stakeholders
+become clearer or change.
+ Although the Project Risk Management processes form an integral part of the overall project management
+plan, a budget in terms of resources, cost, and time for the specific risk management activities should be
+established in order to better track, control, and, as necessary, defend the corresponding expenditures
+throughout the project. The cost of treating the risks themselves should be included appropriately in the project
+budget, while the risk management plan should describe how this part of the project budget is evaluated,
+allocated, and managed. The risk management plan will define the monitoring methods to ensure that the
+corresponding expenditures are tracked appropriately, as well as the conditions under which the approved budget for risk management can be modified.
+ In the same way that project management is a process of progressive elaboration, risk management
+activities need to be repeated throughout the project. The risk management plan should define both the
+normal frequency for repeating the processes as well as specific or exceptional conditions under which the
+corresponding actions should be initiated. The corresponding risk management activities should be integrated
+into the project management plan.
+ There are two categories of success criteria for risk management: those for success of the project in
+general, and those for success of Project Risk Management. (pmi)
+To assess the success of Project Risk Management, the stakeholders
+must agree on an acceptable level of results for the project-related criteria (such as cost, time, and
+scope). In order to ensure consistency and agreement among stakeholders, the risk management
+plan should present these objectives with reference to the project definition documents. To provide
+guidance in risk management, particularly in prioritizing risk responses, stakeholders should also
+prioritize each project objective.
+The measures for success in Project Risk Management depend on a
+number of factors, such as the inherent level of uncertainty of the project. For example, the Project
+Risk Management process for a research project needs to address more unforeseen changes than
+for a project with a more predictable environment. A research Project Risk Management process
+may be considered a success even if it results in more variance from the baseline than would be
+allowable for a successful process in a more predictable project.
+ The level of risk that is considered acceptable in a project depends on the risk attitudes of the relevant
+stakeholders. The risk attitudes of both the organization and the stakeholders may be influenced by a number
+of factors, all of which need to be identified. These include their inherent tolerance for uncertainty, and the
+relative importance to them of achieving or missing specific project objectives. The output of this analysis
+should then be taken into account for setting thresholds and providing weighting factors when applying the Project Risk Management processes in the specific project.
+ Guidelines and rules for escalating risk-related information to management and other stakeholders should
+reflect the risk attitudes and expectations of the corresponding stakeholders. The project manager should maintain effective communication with the stakeholders as the project evolves, in order to become aware of any changes in the stakeholders attitudes and adapt the risk management approach to take any new facts into account.
+ It is important that the participants share a common understanding of all terms used to describe the risks,
+and that the critical values and thresholds that will serve as parameters for the tools should be defined in a
+manner consistent with the scope of the project and the attitudes of the stakeholders. If qualitative analysis
+uses such terms as “high impact” or “medium probability,” these should be defined objectively in the risk
+management plan. Similarly, the risk management plan should specify any key numerical values required in
+quantitative analysis or for decision-making in risk response planning or risk monitoring and control.
+ Risk management planning should establish the type and level of risk detail to be addressed and provide a
+template of the risk register that will be used for recording risk-related information. The risk management plan
+should also indicate the intensity of effort and the frequency with which the various Project Risk Management
+processes should be applied; this depends on the characteristics of the project as well as on the specified risk
+management objectives.
+ In order for the Project Risk Management processes to be carried out correctly and effectively, the project
+team and other stakeholders need to know where and when they will be expected to participate, their criteria
+for determining success, their level of authority, and what action to take relative to actions or decisions beyond
+this level. The risk management plan specifies the project’s risk management roles and responsibilities and
+defines the corresponding expectations for both senior management and project personnel. (pmi)
+Risk-related communication occurs at two levels: within the project team, and between the project team and the other project stakeholders. The principles for each of these categories of communication are
+defined in the risk management plan. For the team, the plan describes the frequency and scope of the various
+risk management meetings and reports required to carry out the corresponding Project Risk Management
+processes as well as the structure and content of such meetings and reports. For the other stakeholders, the
+plan sets their expectations as to the structure, content, and frequency of routine documents to be received
+as well as the way in which information will be shared for escalation or exceptional events. Details of the
+information required by the project team from stakeholders should also be clearly defined.
+ 
+ The principal criteria for a valid risk management plan are acceptance by the stakeholders, alignment
+with the internal and external constraints on the project, balance between cost or effort and benefit, and
+completeness with respect to the needs of the Project Risk Management process. Critical success factors for the Plan Risk Management process are detailed below.
+ The time and effort required to carry out the Plan Risk Management process will not be supported unless
+the stakeholders, and especially management in the organization responsible for the project, recognize and
+accept the benefits of managing risk, and the added value of addressing this as a skill in its own right rather
+than as a passive or reactive component of general project management.
+ A clear definition of the project objectives and a high-level view of the project environment and solution approach are required to provide a valid basis for risk management. The project manager should therefore
+ensure that valid definition and planning information is available for the plan risk management activity.
+ An organization inexperienced in risk management planning may need to develop its own approach and
+may expend an inappropriate amount of time and effort on this. Alternatively it may use a proprietary or
+pre-existing approach which requires tailoring. The availability of some or all of the following organizational
+process assets contributes to the chances of success of the Plan Risk Management activities: standard
+templates, predefined risk categories, and an established project management methodology incorporating
+risk management procedures that specify what risk information is required for decision making, when it is
+required, and a definition of concepts and terms, roles, responsibilities, and authority levels. Access to relevant
+lessons learned at this stage will allow this experience to be taken into account from the start of the project.
+ The risk management plan will not deliver its value unless Project Risk Management is carried out as an integral part of the project. The corresponding activities should be built into the project work breakdown
+structure and included in the corresponding schedule, budget, and work-assignment documents. (pmi)
+ The project manager needs to involve the project stakeholders in the Plan Risk Management activities to build on their skills and experience as well as to ensure their understanding of, and commitment to, the full
+Project Risk Management process.
+ The provision for risk management resources specified within the risk management plan should be approved by management at a level adequate for carrying out the required Project Risk Management processes
+in accordance with agreed-upon objectives. Management should be involved in the analysis of the level of
+resourcing required for managing project risk and accept the risks that may arise from specific limitations
+placed on the provision of resources. Disagreements between stakeholders in the areas of risk tolerance and
+evaluation measures should be addressed and resolved.
+ The feasibility of risk management planning is dependent upon the features of the organization in which it is carried out. The rules and guidelines defined in the risk management plan should be compatible with the
+culture of the organization, its capabilities from the point of view of people and facilities, and its values, goals, and objectives.
+ Project management in general, and risk management in particular, contribute to the organization’s effective
+governance. The risk management plan should identify and take into account the relevant organizational procedures and any other enterprise environmental factors that apply such as strategic risk management or
+corporate governance processes.
+
+The results of risk management planning are documented in the risk management plan. The plan serves
+to provide all project stakeholders with a common view of how the risk-related activities of the project will be
+handled, what has been agreed upon, and a description of the stakeholders’ involvement and responsibilities
+in these activities.
+
+
+Depending upon the size and complexity of the project, some or all of the following elements will be present
+in a risk management plan.
+• Introduction;
+• Project description;
+• Risk management methodology;
+• Risk management organization;
+• Roles, responsibilities, and authority;
+• Stakeholder risk tolerance;
+• Criteria for success;
+• Risk management tools and guidelines for use;
+• Thresholds and corresponding definitions;
+• Templates;
+• Communications plan;
+• Strategy; and
+• Risk breakdown structure.
+
+

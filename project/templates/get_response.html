@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Votre Recommandation: </h1> <br>
+{% for indiv in indivs%}
+    <h3>{{indiv}}</h3> <br>
+{%endfor%}
+
+{% for anno in annotations %}
+    <p>{{anno}}</p><br>
+{%endfor%}
+
+{% endblock %}

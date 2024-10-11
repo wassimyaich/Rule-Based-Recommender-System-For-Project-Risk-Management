@@ -1,0 +1,19 @@
+The primary output from Identify Risks is the initial entry into the risk register. The risk register is a document
+in which the results of risk analysis and risk response planning are recorded. It contains the outcomes of the other
+risk management processes as they are conducted, resulting in an increase in the level and type of information
+contained in the risk register over time. The preparation of the risk register begins in the Identify Risks process
+with the following information, and then becomes available to other project management and risk management
+processes:
+The identified risks are described in as much detail as is reasonable. A
+structure for describing risks using risk statements may be applied, for example, EVENT may occur
+causing IMPACT, or If CAUSE exists, EVENT may occur leading to EFFECT. In addition to the list of
+identified risks, the root causes of those risks may become more evident. These are the fundamental
+conditions or events that may give rise to one or more identified risks. They should be recorded and
+used to support future risk identification for this and other projects.
+ Potential responses to a risk may sometimes be identified during the Identify
+Risks process. These responses, if identified in this process, should be used as inputs to the Plan Risk Responses process.
+
+
+
+
+ 

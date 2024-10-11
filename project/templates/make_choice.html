@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style="display: flex;justify-content: space-between;">
+    <div>
+        <h1>Results For: " {{search_string}} "</h1>
+        {%ifnotequal best_match search_string%}
+            <h4>{{suggestion_string}}  <a href="http://localhost:8000/sendRequest/?search_string={{best_match}}">{{best_match}}</a></h4>
+        {%endifnotequal%}
+    </div>
+    <div>
+        <h3>Formulaire de recherche</h3>
+        <form action="", method="GET">
+            <input type="text" placeholder="type your search string" name="search_string">
+            <input type="submit">
+        </form>
+    </div>
+</div>
+<br>
+
+{% for choice in choices%}
+
+    <h2>{{choice.name}} :</h2>
+    <h4>{{choice.type}}</h4>
+    <p>{{choice.annotation}}</p>{%ifequal choice.type process  %} <a href="http://localhost:8000/processView/?process={{choice.name}}">View Details</a> {%endifequal%}<br>
+
+{%endfor%}
+
+{% endblock %}

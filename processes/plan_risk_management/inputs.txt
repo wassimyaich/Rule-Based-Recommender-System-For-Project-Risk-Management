@@ -1,0 +1,29 @@
+In planning risk management, all approved subsidiary management plans and baselines should be taken into
+consideration in order to make the risk management plan consistent with them. The risk management plan is also
+a component of the project management plan. The project management plan provides a baseline or current state of risk-affected areas including scope, schedule, and cost.
+
+
+The project charter can provide various inputs such as high-level risks, high-level
+project descriptions, and high-level requirements.
+
+
+The stakeholder register, which contains all details related to the project’s
+stakeholders, provides an overview of their roles.
+
+
+The enterprise environmental factors that can influence the Plan Risk Management
+process include, but are not limited to, risk attitudes, thresholds, and tolerances that describe the degree of risk that an organization will withstand.
+
+
+The organizational process assets that can influence the Plan Risk Management
+process include, but are not limited to:
+
+
+•         Risk categories,
+•         Common definitions of concepts and terms,
+•         Risk statement formats,
+•         Standard templates,
+•         Roles and responsibilities,
+•         Authority levels for decision making, and
+•         Lessons learned.
+

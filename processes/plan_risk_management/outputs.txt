@@ -1,0 +1,31 @@
+The risk management plan is a component of the project management plan and describes how risk management activities will be structured and performed. The risk management plan includes the following:
+ Defines the approaches, tools, and data sources that will be used to perform risk
+management on the project.
+Defines the lead, support, and risk management team members for each
+type of activity in the risk management plan, and clarifies their responsibilities.
+Estimates funds needed, based on assigned resources, for inclusion in the cost baseline and
+establishes protocols for application of contingency and management reserves.
+Defines when and how often the risk management processes will be performed throughout the
+project life cycle, establishes protocols for application of schedule contingency reserves, and establishes risk management activities for inclusion in the project schedule.
+
+
+
+
+ Provide a means for grouping potential causes of risk. Several approaches can be
+used, for example, a structure based on project objectives by category. A risk breakdown structure (RBS)
+helps the project team to look at many sources from which project risk may arise in a risk identification exercise. Different RBS structures will be appropriate for different types of projects. An organization can use a previously prepared custom categorization framework, which may take the form of a simple list of
+categories or may be structured into an RBS. The RBS is a hierarchical representation of risks according to their risk categories.
+
+
+The quality and credibility of the risk analysis requires that different levels of risk probability and impact be defined that are specific to the project context. General
+definitions of probability levels and impact levels are tailored to the individual project during the Plan Risk Management process for use in subsequent processes. 
+A probability and impact matrix is a grid for mapping the probability of each risk occurrence and its impact on project objectives if that risk occurs. Risks are prioritized
+according to their potential implications for having an effect on the project’s objectives.               A typical approach to prioritizing risks is to use a look-up table or a probability and impact matrix. The specific
+combinations of probability and impact that lead to a risk being rated as “high,” “moderate,” or “low” importance are usually set by the organization.
+Stakeholders’ tolerances, as they apply to the specific project, may
+be revised in the Plan Risk Management process.
+Reporting formats define how the outcomes of the risk management process will
+be documented, analyzed, and communicated. It describes the content and format of the risk register as well as any other risk reports required.
+Tracking documents how risk activities will be recorded for the benefit of the current project
+and how risk management processes will be audited.
+

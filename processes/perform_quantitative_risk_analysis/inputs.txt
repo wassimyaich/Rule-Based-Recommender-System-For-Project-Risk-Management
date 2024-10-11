@@ -1,0 +1,10 @@
+The risk management plan provides guidelines, methods, and tools to be used in quantitative risk analysis.
+
+The cost management plan provides guidelines on establishing and managing risk reserves.
+
+The schedule management plan provides guidelines on establishing and managing risk reserves.
+
+The risk register is used as a reference point for performing quantitative risk analysis.
+. Enterprise environmental factors may provide insight and context to the risk analysis, such as: 
+•	Industry studies of similar projects by risk specialists, and 
+•	Risk databases that may be available from industry or proprietary sources.

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% load static %}
+<head>
+  <!-- Required meta tags --> 
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Regal Admin</title>
+  <!-- base:css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/mdi/css/materialdesignicons.min.css'%}">
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/feather/feather.css'%}">
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/base/vendor.bundle.base.css' %}">
+  
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/flag-icon-css/css/flag-icon.min.css'%}"/>
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/font-awesome/css/font-awesome.min.css'%}">
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/jquery-bar-rating/fontawesome-stars-o.css'%}">
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/vendors/jquery-bar-rating/fontawesome-stars.css'%}">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/css/style.css' %}">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="images/favicon.png" />
+</head>
+<body>
+	<div>
+  <div class="container-scroller">
+    <!-- partial:partials/_navbar.html -->
+    <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+        <font face="Brush Script MT" size="7px" color="#FFFFF">RM Assist</font>
+
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+          <span class="icon-menu"></span>
+        </button>
+        <ul class="navbar-nav mr-lg-2">
+          <li class="nav-item nav-search d-none d-lg-block">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="icon-search"></i>
+                </span>
+              </div>
+              <form action = "" method="GET">
+              <input type="text" class="form-control" placeholder="Search Key Words.." aria-label="search" aria-describedby="search" name = "search_string">
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <li class="nav-item dropdown d-lg-flex d-none">
+                <button type="submit" class="btn btn-primary btn-rounded btn-fw">    View Results    </button>
+            </li>
+          </form>
+          <li class="nav-item dropdown d-flex">
+            <a class="nav-link count-indicator dropdown-toggle d-flex justify-content-center align-items-center" id="messageDropdown" href="#" data-toggle="dropdown">
+              <i class="icon-air-play mx-0"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="messageDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Messages</p>
+              <a class="dropdown-item preview-item">
+                <div class="preview-thumbnail">
+                    <img src="images/faces/face4.jpg" alt="image" class="profile-pic">
+                </div>
+                <div class="preview-item-content flex-grow">
+                  <h6 class="preview-subject ellipsis font-weight-normal">David Grey
+                  </h6>
+                  <p class="font-weight-light small-text text-muted mb-0">
+                    The meeting is cancelled
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item preview-item">
+                <div class="preview-thumbnail">
+                    <img src="images/faces/face2.jpg" alt="image" class="profile-pic">
+                </div>
+                <div class="preview-item-content flex-grow">
+                  <h6 class="preview-subject ellipsis font-weight-normal">Tim Cook
+                  </h6>
+                  <p class="font-weight-light small-text text-muted mb-0">
+                    New product launch
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item preview-item">
+                <div class="preview-thumbnail">
+                    <img src="images/faces/face3.jpg" alt="image" class="profile-pic">
+                </div>
+                <div class="preview-item-content flex-grow">
+                  <h6 class="preview-subject ellipsis font-weight-normal"> Johnson
+                  </h6>
+                  <p class="font-weight-light small-text text-muted mb-0">
+                    Upcoming board meeting
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li>
+          <li class="nav-item dropdown d-flex mr-4 ">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="icon-cog"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Settings</p>
+              <a class="dropdown-item preview-item">               
+                  <i class="icon-head"></i> Profile
+              </a>
+              <a class="dropdown-item preview-item">
+                  <i class="icon-inbox"></i> Logout
+              </a>
+            </div>
+          </li>
+          <li class="nav-item dropdown mr-4 d-lg-flex d-none">
+            <a class="nav-link count-indicatord-flex align-item s-center justify-content-center" href="#">
+              <i class="icon-grid"></i>
+            </a>
+          </li>
+        </ul>
+      
+      </div>
+    </nav>
+        <!-- partial -->
+    <div class="content-wrapper">
+      <!-- partial:partials/_sidebar.html -->
+
+     
+      <!-- partial -->
+      <div class="main-panel">
+        <div class="content-wrapper">
+          <div class="row">
+            <div class="col-sm-12 mb-4 mb-xl-0">
+              {%ifnotequal best_match search_string%}
+              <h4>{{suggestion_string}}  <a href="http://localhost:8000/sendRequest/?search_string={{best_match}}">{{best_match}}</a></h4>
+              {%endifnotequal%}
+              <p class="font-weight-normal mb-2 text-muted">Here are your results</p>
+            </div>
+          </div>
+          <div class="row mt-3">
+
+            {% for choice in choices%}
+                <div class="card" style="flex: 1 100%;">
+                  <div class="card-body" style="margin-bottom: 2%;">
+                    
+
+                      <h2>{{choice.name}} :</h2>
+                      <h4>{{choice.type}}</h4>
+                      <p>{{choice.annotation}}</p>{%ifequal choice.type process  %} <a class="btn btn-outline-primary btn-fw" href="http://localhost:8000/processView/?process={{choice.name}}">View Details</a> {%endifequal%}<br>
+
+                    
+                   
+                </div>
+              
+         </div>
+         <br>
+         <br>
+              {%endfor%} 
+     </div>
+
+
+
+
+         
+             
+              
+                </div>
+              </div>
+          </div>
+        </div>
+
+        <!-- partial:partials/_footer.html -->
+        <footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © 2021</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> RM Assist : Risk Managment Assistant</span>
+          </div>
+          <span class="text-muted d-block text-center text-sm-left d-sm-inline-block mt-2">Distributed By: <a href="https://www.themewagon.com/" target="_blank">DSS Developement Team</a></span> 
+        </footer>
+    </div>
+</div>
+        
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- base:js -->
+  
+  <!-- End custom js for this page-->
+</body>
+
+</html>
+

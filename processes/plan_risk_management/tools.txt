@@ -1,0 +1,43 @@
+Planning sessions are recommended in order to build a common understanding of the project’s risk approach
+between project stakeholders and to gain agreement on the techniques to be used for managing risk.
+ Elaboration of the risk management plan often serves to develop an effective means for the team to work
+together since a similar consultative team approach will be used in subsequent stages of the risk management
+process. The participants should include: the project manager, selected project team members and other
+stakeholders, members of the broader organization having responsibility for risk, and other subject matter
+experts or facilitators, as needed.
+ At this point, the initial risk responsibilities, methodology, templates, terms, definitions, time schedules, and
+cost budgets for the other Project Risk Management processes should be assigned and accepted. The specification for the tools that will be used in subsequent processes should include all parameters and other inputs required
+to ensure their applicability to the specific project. These should be documented in the risk management plan, which, when formally approved, is the principal deliverable of the Plan Risk Management process. 
+
+
+ In order to benefit from experience and existing best practice, risk management planning should take into account relevant existing templates for work products, such as risk status reports, risk breakdown structures or the risk register. A decision should be made as to which templates are relevant to the project, and these should then be adapted and included in the risk management plan. 
+
+
+
+
+Analytical techniques are used to understand and define the overall risk management context of the project.
+Risk management context is a combination of stakeholder risk attitudes and the strategic risk exposure of a given
+project based on the overall project context. For example, a stakeholder risk profile analysis may be performed to
+grade and qualify the project stakeholder risk appetite and tolerance. Other techniques, such as the use of strategic
+risk scoring sheets, are used to provide a high-level assessment of the risk exposure of the project based on the
+overall project context. Depending on these assessments, the project team can allocate appropriate resources and
+focus on the risk management activities.
+
+
+To ensure a comprehensive establishment of the risk management plan, judgment, and expertise should be
+considered from groups or individuals with specialized training or knowledge on the subject area, such as:
+•         Senior management,
+•         Project stakeholders,
+•         Project managers who have worked on projects in the same area (directly or through lessons learned),
+•         Subject matter experts in business or project area,
+•         Industry groups and consultants, and
+•         Professional and technical associations.
+
+
+
+
+Project teams hold planning meetings to develop the risk management plan. Attendees at these meetings may include the project manager, selected project team members and stakeholders, anyone in the organization with responsibility to manage the risk planning and execution activities, and others, as needed.
+High-level plans for conducting the risk management activities are defined in these meetings. Risk management
+cost elements and schedule activities should be developed for inclusion in the project budget and schedule,
+respectively. Risk contingency reserve application approaches may be established or reviewed. Risk management
+responsibilities should be assigned. General organizational templates for risk categories and definitions of terms such as levels of risk, probability by type of risk, impact by type of objectives, and the probability and impact matrix will be tailored to the specific project. If templates for other steps in the process do not exist, they may be generated in these meetings. The outputs of these activities are summarized in the risk management plan.

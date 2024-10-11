@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style="display: flex;justify-content: space-between;">
+    <div style="max-width: 120ch;">
+        <h1>Process : {{process}}</h1>
+        <p style="display: flex;justify-content: space-between;">{{annotation}}</p><br>
+    </div>
+    <div>
+        <h3>Formulaire de recherche</h3>
+        <form action="http://localhost:8000/sendRequest/", method="GET">
+            <input type="text" placeholder="type your search string" name="search_string">
+            <input type="submit">
+        </form>
+    </div>
+</div>
+<br>
+
+<ul><h2>Inputs:</h2>
+    <h3>{%for input in inputs%}</h3>
+    <li>{{input}}</li>
+    {%endfor%}
+</ul><br>
+
+<ul><h2>Outputs:</h2>
+    <h3>{%for output in outputs%}</h3>
+    <li>{{output}}</li>
+    {%endfor%}
+</ul><br>
+
+<ul><h2>Tools & Techniques:</h2>
+    <h3>{%for t in tt%}</h3>
+    <li>{{t}}</li>
+    {%endfor%}
+</ul><br>
+
+{% endblock %}

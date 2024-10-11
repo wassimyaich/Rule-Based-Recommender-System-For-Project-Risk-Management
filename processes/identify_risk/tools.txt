@@ -1,0 +1,93 @@
+ Historical reviews are based on what occurred in the past, either on this project, or other similar projects
+in the same organization, or comparable projects in other organizations. Historical review approaches rely on
+careful selection of comparable situations which are genuinely similar to the current project, and filtering of
+data to ensure that only relevant previous risks are considered. In each case, the risks identified in the selected
+historical situations should be considered, asking whether they or similar risks might arise in this project.
+ 
+ Current assessments rely on detailed consideration of the current project, analyzing its characteristics
+against given frameworks and models in order to expose areas of uncertainty. Unlike historical review
+approaches, current assessment techniques do not rely on outside reference points, but are based purely on
+examination of the project.
+ 
+ A wide range of creativity techniques can be used for risk identification, which encourages project
+stakeholders to use their imagination to find risks which might affect the project. The outcomes or effectiveness of these techniques depend on the ability of participants to think creatively. These techniques can be used
+either singly or in groups, and employ varying degrees of structure. These techniques depend on the ability of
+participants to think creatively, and their success is enhanced by use of a skilled facilitator.
+ Each category of risk identification technique has strengths and weaknesses, and no single technique
+can be expected to reveal all knowable risks. Consequently, the Identify Risks process for a particular project
+should use a combination of techniques, perhaps selecting one from each category. For example, a project may
+choose to use a risk identification checklist (historical review), together with assumptions analysis (current
+assessment) and brainstorming (creativity).
+ Use of a risk breakdown structure which organizes the categories of potential risks on the project, a prompt
+list, or a set of generic list categories may assist in ensuring that as many sources of risk as practicable have
+been addressed, while recognizing that no such tools are complete nor can they replace original thinking. 
+Whichever risk identification techniques are used, it is important that identified risks are unambiguously
+described in order to ensure that the project risk process is focused on the actual risks and not distracted or
+diluted by non-risks. Use of structured risk descriptions can ensure clarity. Risk meta-language offers a useful
+way of distinguishing a risk from its cause(s) and effect(s), describing each risk using three-part statements in
+the form: “As a result of cause, risk may occur, which would lead to effect.” The relationship between cause,
+risk.
+
+
+
+
+A structured review of the project documentation may be performed, including plans, assumptions, previous
+project files, agreements, and other information. The quality of the plans, as well as consistency between those
+plans and the project requirements and assumptions, may be indicators of risk in the project.
+
+
+Examples of information gathering techniques used in identifying risks can include:
+•         Brainstorming. The goal of brainstorming is to obtain a comprehensive list of project risks. The project
+team usually performs brainstorming, often with a multidisciplinary set of experts who are not part of the
+team. Ideas about project risk are generated under the leadership of a facilitator, either in a traditional
+free-form brainstorm session or structured mass interviewing techniques. Categories of risk, such as in a
+risk breakdown structure, can be used as a framework. Risks are then identified and categorized by type
+of risk and their definitions are refined.
+The Delphi technique is a way to reach a consensus of experts. Project risk experts
+participate in this technique anonymously. A facilitator uses a questionnaire to solicit ideas about the
+important project risks. The responses are summarized and are then recirculated to the experts for
+further comment. Consensus may be reached in a few rounds of this process. The Delphi technique helps
+reduce bias in the data and keeps any one person from having undue influence on the outcome.
+
+
+ Interviewing experienced project participants, stakeholders, and subject matter experts
+helps to identify risks.
+Root-cause analysis is a specific technique used to identify a problem, discover
+the underlying causes that lead to it, and develop preventive action.
+
+
+Risk identification checklists are developed based on historical information and knowledge that has been
+accumulated from previous similar projects and from other sources of information. The lowest level of the RBS
+can also be used as a risk checklist. While a checklist may be quick and simple, it is impossible to build an
+exhaustive one, and care should be taken to ensure the checklist is not used to avoid the effort of proper risk
+identification. The team should also explore items that do not appear on the checklist. Additionally, the checklist
+should be pruned from time to time to remove or archive related items. The checklist should be reviewed during
+project closure to incorporate new lessons learned and improve it for use on future projects.
+
+
+Every project and its plan is conceived and developed based on a set of hypotheses, scenarios, or assumptions.
+Assumptions analysis explores the validity of assumptions as they apply to the project. It identifies risks to the
+project from inaccuracy, instability, inconsistency, or incompleteness of assumptions.
+
+
+Risk diagramming techniques may include:
+These are also known as Ishikawa or fishbone diagrams and are useful for
+identifying causes of risks.
+These show how various elements of a system interrelate and the
+mechanism of causation.
+These are graphical representations of situations showing causal influences, time
+ordering of events, and other relationships among variables and outcomes.
+
+
+This technique examines the project from each of the strengths, weaknesses, opportunities, and threats (SWOT)
+perspectives to increase the breadth of identified risks by including internally generated risks. The technique starts
+with identification of strengths and weaknesses of the organization, focusing on either the project, organization,
+or the business area in general. SWOT analysis then identifies any opportunities for the project that arise from
+organizational strengths, and any threats arising from organizational weaknesses. The analysis also examines
+the degree to which organizational strengths offset threats, as well as identifying opportunities that may serve to
+overcome weaknesses.
+
+
+Risks may be identified directly by experts with relevant experience with similar projects or business areas.
+Such experts should be identified by the project manager and invited to consider all aspects of the project and
+suggest possible risks based on their previous experience and areas of expertise. The experts’ bias should be taken into account in this process.
