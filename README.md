@@ -19,7 +19,7 @@ This involved the use of NLP (Natural Language Processing) techniques to automat
 
 # acknowledgement
 This work was accomplished thanks to the efforts of all the collaboratos:  
--Yessine Khanfir  https://www.linkedin.com/in/yessine-khanfir-b5b509177/  
+-Wassim Yaich  https://www.linkedin.com/in/wassim-yaich/  
 -Yassine Ben Nacef  https://www.linkedin.com/in/bennacef-mohamedyassine-732b4b202/  
 -Sarra Ferchichi  https://www.linkedin.com/in/sarra-ferchichi-822a491ba/  
 -Mayssa Zaouali https://www.linkedin.com/in/mayssa-zaouali-9288421bb/
